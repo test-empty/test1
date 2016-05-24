@@ -1,1 +1,3 @@
-echo 'Hello'
+node() {
+  echo 'Hello'
+}
